@@ -7,4 +7,4 @@ Code implementation of classical algorithm
 
 算法：
 1. 快速排序：quickSort.c
-2. 并归排序：mergeSort.c
+2. 归并排序：mergeSort.c mergeSort2.c
